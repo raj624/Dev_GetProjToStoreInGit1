@@ -1,0 +1,4 @@
+this is a sample text
+this is second line added from  the symbolic linked file - test2
+this is 3rd line added from test1 for cecking if the data is moved to the symbolic lined 2nd file
+Added some more data line four added after creaion of the hard linked file - test3 and this data is being added from the test1
